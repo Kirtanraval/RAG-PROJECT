@@ -102,7 +102,7 @@ Dockerized deployment
 
 ### 1. Clone the repository
 
-git clone [https://github.com/yourusername/rag-project.git](https://github.com/Kirtanraval/RAG-PROJECT.git)
+git clone https://github.com/Kirtanraval/RAG-PROJECT.git
 
 cd rag-project
 
@@ -232,4 +232,5 @@ LangSmith observability
 
 RK
 AI / ML Engineering Projects
+
 
